@@ -1,7 +1,7 @@
 language: java
 jdk: oraclejdk8
 
-gradle check
+#gradle check
 
 #customize the build using the script command.
 #script:
